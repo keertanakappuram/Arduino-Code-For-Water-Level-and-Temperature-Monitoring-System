@@ -1,0 +1,1 @@
+This system is a water level and temperature monitoring system in which the HC-SR04 ultrasonic sensor and LM35 temperature sensor are used to detect the level and temperature of water respectively. This system can help reduce manpower, save cost, prevent wastage of water and automate industrial and domestic work for higher performance.
